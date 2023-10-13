@@ -5,9 +5,6 @@
         },
         {
             "path": "./notebook"
-        },
-        {
-            "path": "./python/examples/notebooks"
         }
     ],
 }
